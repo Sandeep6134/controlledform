@@ -1,0 +1,11 @@
+.form1{
+    display: grid;
+    grid-auto-flow: row;
+    text-align: center;
+    margin: 5em;
+    /* border: 1px solid rgb(0, 0, 0); */
+    
+}
+.inside{
+    padding: 100px;
+}
